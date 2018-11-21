@@ -1,0 +1,54 @@
+[
+  {
+      "grouping":"Programming Languages",
+      "skills":[
+          "TypeScript",
+          "C#",
+          "SQL",
+          "Java",
+          "Python",
+          "PHP",
+          "C",
+          "C++"
+        ]
+  },
+  {
+    "grouping": "Frameworks",
+    "skills":[
+        "Angular 2-7+",
+        ".NET Core 1-2+",
+        "Angular Material 2-7+",
+        "Kendo UI",
+        "Xamarin",
+        "Bootstrap 3-4+",
+        "Identity Server 3-4+",
+        "Telerik",
+        "Karma", "Jasmine", "Jenkins"
+    ]
+  },
+  {
+      "grouping":"Project Management",
+      "skills":[
+          "Agile",
+          "Waterfall",
+          "SCRUM",
+          "Git/GitFlow",
+          "JIRA"
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
+  },
+  {
+      "grouping":"Soft Skills & Interests",
+      "skills": [
+        "Leadership", "Communication", "Problem Solving", "Critical & Creative thinking", "Open Source"
+      ]
+  }
+]

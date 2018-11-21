@@ -1,0 +1,50 @@
+baseURL = "https://manjot.info/"
+languageCode = "en-us"
+title = "Manjot Khalsa"
+theme = "resume"
+
+[params]
+    firstName = "Manjot"
+    lastName = "Khalsa"
+    address = "Coquitlam, BC, Canada"
+    phone = "+1 (604)-561-3756"
+    contactNote = "Dev Tools Engineer"
+    profileImage = "img/TechChat2.png"
+    email = "contact@manjot.info"
+    description = "Experienced software developer with a demonstrated history of working in the software industry. Strong development professional, graduated from British Columbia Institute of Technology with a diploma in Computer Systems Technology with distinction. Currently looking to gain valuable experience with an organization where I can utilize my knowledge, skills and be able to contribute to the overall growth of the organization. Want to know more about me? Let's chat!!"
+    favicon = "favico.png"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/manjotkhalsa/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/manjot96/"
+
+# [[params.handles]]
+#     name = "Bitbucket"
+#     link = "https://bitbucket.org/eddiewebb/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/story/5749178"
+    icon = "stack-overflow"
+
+# [[params.handles]]
+#     name = "Keybase"
+#     link = "https://keybase.io/edwardawebb"
+#     icon = "key"
+
+[params.google.analytics]
+    trackerID = "UA-76874454-1"

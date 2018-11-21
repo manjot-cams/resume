@@ -1,0 +1,18 @@
+[
+    {
+        "school":"British Columbia Institute of Technology",
+        "degree":"Bachelor of Technology in Computer Systems",
+        "major":"Network Security",
+        "range":"Sept 2018 - Present"
+    },
+    {
+        "school":"British Columbia Institute of Technology",
+        "degree":"Computer Systems Technology Diploma",
+        "major":"Web & Mobile",
+        "notes": [
+            "Graduated with distinction (honors)",
+            "Set Representative"
+        ],
+        "range":"Jan 2015 - Dec 2016"
+    }
+]
